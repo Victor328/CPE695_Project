@@ -1,0 +1,15 @@
+EventCount 3
+Rain 0
+Road_Closed 1
+School_off 1
+1 1 1
+0 0 0
+0 0 0
+1 1 1
+1 0 0
+1 1 1
+0 0 1
+0 0 0
+1 1 1
+1 0 1
+1 1 1
